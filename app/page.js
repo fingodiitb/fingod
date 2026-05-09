@@ -5,6 +5,7 @@ const MID_BLUE = "#1A4A7A";
 const GOLD = "#F39C12";
 const LIGHT_BLUE = "#D6EAF8";
 
+
 // ── DATA ──────────────────────────────────────────────────────────────────────
 const REPORTS = [
   {
