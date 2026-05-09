@@ -253,7 +253,7 @@ const PriceBar = ({ cmp, bear, base, bull }) => {
 };
 
 // ── MAIN APP ─────────────────────────────────────────────────────────────────
-export default function FINGODPlatform() {
+export default function Page() {
   const [activeTab, setActiveTab] = useState("home");
   const [selectedReport, setSelectedReport] = useState(null);
   const [chatMessages, setChatMessages] = useState([
